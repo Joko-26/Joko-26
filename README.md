@@ -1,16 +1,57 @@
-## Hi there 👋
+## 👋 Hi, I'm Jakob Friedrich (Joko 26) (he/him)
 
-<!--
-**Joko-26/Joko-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old programmer from Germany 🇩🇪 who loves building games, web apps, and fun projects to learn new things!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🕹️ Interested in: **Game Development**, **Web Development**
+- 🔍 Currently learning: **React**, **Godot**, and building cool things with code!
+- 🎯 Goal: To create useful and enjoyable digital experiences.
+
+---
+
+### 🛠️ My Skills
+
+![Godot](https://skillicons.dev/icons?i=godot)
+![HTML](https://skillicons.dev/icons?i=html)
+![Python](https://skillicons.dev/icons?i=py)
+![React](https://skillicons.dev/icons?i=react)
+![Obsidian](https://skillicons.dev/icons?i=obsidian)
+
+---
+
+### ⚙️ Tools I Use
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Discord](https://skillicons.dev/icons?i=discord)
+![Godot](https://skillicons.dev/icons?i=godot)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+### 🌟 Featured Projects
+
+- [**QR-code Generator**](https://qrcode-creator.orosemo.de/)  
+  Free QR-Code generation website.  
+  👉 [GitHub Repo](https://github.com/Joko-26/QR-Code-generator)  
+  _Built with Tanstack Router React_
+
+<!-- Add more projects here! -->
+
+---
+
+### 📫 Connect with Me
+
+- 💬 Discord: `joko26` 
+- 📨 Email: ja_friedrich@outlook.de
+- 🌐 [Website](https://orosemo.de) 
+
+---
+
+<details>
+  <summary>🎲 Fun Fact</summary>
+  I started programming at the age of 11 and love learning new tech every day!
+</details>
