@@ -7,7 +7,7 @@ I'm a 15-year-old programmer from Germany 🇩🇪 who loves building games, web
 ### 🚀 About Me
 
 - 🕹️ Interested in: **Game Development**, **Web Development**
-- 🔍 Currently learning: **React**, **Godot**, and building cool things with code!
+- 🔍 Currently learning: **React**, **Godot**, and building cool things!
 - 🎯 Goal: To create useful and enjoyable digital experiences.
 
 ---
