@@ -19,7 +19,7 @@ I'm a 15-year-old programmer from Germany 🇩🇪 who loves building games, web
 ![Python](https://skillicons.dev/icons?i=py)
 ![React](https://skillicons.dev/icons?i=react)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
-![]()
+![ts](https://skillicons.dev/icons?i=ts)
 
 ---
 
