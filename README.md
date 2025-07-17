@@ -38,6 +38,11 @@ I'm a 15-year-old programmer from Germany 🇩🇪 who loves building games, web
   Free QR-Code generation website.  
   👉 [GitHub Repo](https://github.com/Joko-26/QR-Code-generator)  
   _Built with Tanstack Router React_
+- Discord Jam management Bot
+  Manage Jams (competitions) in your discord servers very easily.
+  👉 [install it](https://discord.com/oauth2/authorize?client_id=1392135407612723390)
+  👉 [Github Repo](https://github.com/Joko-26/jam-bot)
+  _Built with discord.js and Typescript_
 
 <!-- Add more projects here! -->
 
